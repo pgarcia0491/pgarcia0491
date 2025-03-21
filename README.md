@@ -2,7 +2,7 @@ Hi!, I am Peter Garcia, an aspiring data analyst passionate about uncovering ins
 
 
 
-[![LinkedIn](https://www.citypng.com/public/uploads/preview/hd-vector-flat-linkedin-in-round-icon-png-701751695046390m4phkuuiqm.png)](https://www.linkedin.com/in/peter-garcia-4a728281/E/)
+[![LinkedIn](https://user-images.githubusercontent.com/99184393/188185026-93637cf8-67e9-439a-b33a-6feba7b8bd21.png)](https://www.linkedin.com/in/peter-garcia-4a728281/E/)
 
 </a>
 <!--
