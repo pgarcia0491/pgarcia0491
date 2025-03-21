@@ -1,6 +1,10 @@
 Hi!, I am Peter Garcia, an aspiring data analyst passionate about uncovering insights and solving problems through data. I enjoy exploring patterns, simplifying complex information, and presenting findings in ways that drive meaningful decisions. My projects reflect my curiosity, attention to detail, and dedication to delivering meaningful results.
 
-<a href="https://www.linkedin.com/in/peter-garcia-4a728281/"> <img src="[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your-profile/)" alt="LinkedIn" width="80" height="25"> </a>
+<a  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-garcia-4a728281/E/)
+
+</a>
 <!--
 **pgarcia0491/pgarcia0491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
