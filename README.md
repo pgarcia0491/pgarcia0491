@@ -2,7 +2,7 @@ Hi!, I am Peter Garcia, an aspiring data analyst passionate about uncovering ins
 
 
 <a href="https://www.linkedin.com/in/peter-garcia-4a728281">
-  <img src="[https://img.icons8.com/color/48/000000/linkedin.png](https://user-images.githubusercontent.com/99184393/188185026-93637cf8-67e9-439a-b33a-6feba7b8bd21.png)" width="30" height="30">
+  <img src="https://user-images.githubusercontent.com/99184393/188185026-93637cf8-67e9-439a-b33a-6feba7b8bd21.png" width="30" height="30">
 </a>
 
 <!--
