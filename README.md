@@ -2,7 +2,7 @@ Hi!, I am Peter Garcia, an aspiring data analyst passionate about uncovering ins
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-garcia-4a728281/E/)
+[![In](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-garcia-4a728281/E/)
 
 </a>
 <!--
